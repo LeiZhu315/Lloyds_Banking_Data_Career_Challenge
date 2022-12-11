@@ -1,0 +1,3 @@
+# Lloyds_Banking_DidData_Challenge
+Lloyds Banking Group career challenge (Nov 2022): using historical data to analyse and predict who is likely to payback their loan.
+to be updated...
